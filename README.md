@@ -1,10 +1,10 @@
 # CPU
 ## TODO:
 + ~~ALU.sv~~
-+ CMP.sv
++ ~~CMP.sv~~
 + ~~Controller.sv~~
 + Core.sv
-+ DataPkg.sv
-+ DataTrunc.sv
-+ MaskGen.sv
++ ~~DataPkg.sv~~
++ ~~DataTrunc.sv~~
++ ~~MaskGen.sv~~
 + ~~RegFile.sv~~
