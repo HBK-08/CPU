@@ -1,6 +1,6 @@
 # CPU
 ## TODO:
-~~ALU.sv~~ //
+~~ALU.sv~~
 CMP.sv
 Controller.sv
 Core.sv
