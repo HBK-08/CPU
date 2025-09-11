@@ -2,7 +2,7 @@
 ## TODO:
 + ~~ALU.sv~~
 + CMP.sv
-+ Controller.sv
++ ~~Controller.sv~~
 + Core.sv
 + DataPkg.sv
 + DataTrunc.sv
